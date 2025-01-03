@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "Work Sans", serif;
+}
+
+.work_sans{
+    font-family: "Work Sans", serif;
+}
+
+/* header start */
+
+.grid_container{
+    display: grid;
+    grid-template-columns: 1;
+}
+
+header{
+    background-color: aqua;
+}
+
+main{
+    background-color: blue;
+}
+
+footer{
+    background-color: yellow;
+}
+
+/* header end */
